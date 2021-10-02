@@ -1,6 +1,6 @@
 # Car-Customization-Project
 
-* Requires "carspecs.txt" text file to run *
+*Requires "carspecs.txt" text file to run*
 
 - Reads in a list of cars' year, model, price, mpg, and color from "carspecs.txt" text file
 - Displays each car's specs to user and allows them to make a selection
